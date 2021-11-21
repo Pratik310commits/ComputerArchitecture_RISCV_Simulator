@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FinalRISCVSimulator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  System.cpp
-E:\LecturesAndNotes\Assignments\CA\SimulatorProject\FinalRISCVSimulator\System.cpp(75,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\LecturesAndNotes\Assignments\CA\SimulatorProject\FinalRISCVSimulator\System.cpp(81,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  FinalRISCVSimulator.vcxproj -> E:\LecturesAndNotes\Assignments\CA\SimulatorProject\ComputerArchitectureProject\Debug\FinalRISCVSimulatorWOnlyPipeline.exe
